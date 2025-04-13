@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/ShivaTransport/static/css/main.3da93ec7.css",
+    "main.js": "/ShivaTransport/static/js/main.642d2f4f.js",
+    "static/js/524.81186d94.chunk.js": "/ShivaTransport/static/js/524.81186d94.chunk.js",
+    "static/js/999.3deef6c8.chunk.js": "/ShivaTransport/static/js/999.3deef6c8.chunk.js",
+    "static/js/334.0eb62654.chunk.js": "/ShivaTransport/static/js/334.0eb62654.chunk.js",
+    "static/js/815.f0093987.chunk.js": "/ShivaTransport/static/js/815.f0093987.chunk.js",
+    "static/js/507.e0c24031.chunk.js": "/ShivaTransport/static/js/507.e0c24031.chunk.js",
+    "static/js/136.baa61a97.chunk.js": "/ShivaTransport/static/js/136.baa61a97.chunk.js",
+    "static/js/201.6603cb0f.js": "/ShivaTransport/static/js/201.6603cb0f.js",
+    "static/js/718.477b832a.chunk.js": "/ShivaTransport/static/js/718.477b832a.chunk.js",
+    "static/js/241.8d0fbba8.js": "/ShivaTransport/static/js/241.8d0fbba8.js",
+    "static/js/496.738297a3.js": "/ShivaTransport/static/js/496.738297a3.js",
+    "static/js/388.a4a29907.js": "/ShivaTransport/static/js/388.a4a29907.js",
+    "static/js/962.89b07052.js": "/ShivaTransport/static/js/962.89b07052.js",
+    "static/js/876.2e8076c4.js": "/ShivaTransport/static/js/876.2e8076c4.js",
+    "static/js/968.01e40916.js": "/ShivaTransport/static/js/968.01e40916.js",
+    "static/js/283.412a041d.js": "/ShivaTransport/static/js/283.412a041d.js",
+    "static/js/297.33275024.js": "/ShivaTransport/static/js/297.33275024.js",
+    "index.html": "/ShivaTransport/index.html"
+  },
+  "entrypoints": [
+    "static/js/241.8d0fbba8.js",
+    "static/js/496.738297a3.js",
+    "static/js/388.a4a29907.js",
+    "static/js/962.89b07052.js",
+    "static/js/876.2e8076c4.js",
+    "static/js/968.01e40916.js",
+    "static/js/283.412a041d.js",
+    "static/js/297.33275024.js",
+    "static/js/201.6603cb0f.js",
+    "static/css/main.3da93ec7.css",
+    "static/js/main.642d2f4f.js"
+  ]
+}
